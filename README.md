@@ -2,8 +2,7 @@
 
 - 🔭 Estudante, graduando no 4° semestre de Engenharia de Software - UFC - Campus Russas.
 - 🌱 Hoje, estou quase finalizando os meus estudos em JS para iniciar a estudar React. Também estudo Kotlin, para aprender a desenvolver app nativos Android.
-- 📫 Entre em contato pelo e-mail: rairodrigues040@gmail.com
-- 😄 Pronouns: Ele/dele
+- 📫 Entre em contato pelo e-mail: rairodrigues@alu.ufc.com.br
 
   <div style="display: inline_block"><br>
     <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
