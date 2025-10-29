@@ -1,6 +1,6 @@
 ## Olá, eu sou Raí Rodrigues :)
 
-- 🔭 Estudante, graduando no 4° semestre de Engenharia de Software - UFC - Campus Russas.
+- 🔭 Estudante, graduando no 5° semestre de Engenharia de Software - UFC - Campus Russas.
 - 🌱 Hoje, estou quase finalizando os meus estudos em JS para iniciar a estudar React. Também estudo Kotlin, para aprender a desenvolver app nativos Android.
 - 📫 Entre em contato pelo e-mail: rairodrigues@alu.ufc.com.br
 
