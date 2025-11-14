@@ -1,14 +1,14 @@
 ## Olá, eu sou Raí Rodrigues :)
 
 - 🔭 Estudante, graduando no 5° semestre de Engenharia de Software - UFC - Campus Russas.
-- 🌱 Hoje, estou quase finalizando os meus estudos em JS para iniciar a estudar React. Também estudo Kotlin, para aprender a desenvolver app nativos Android.
+- 🌱 Hoje, estou quase finalizando os meus estudos em Node.JS. Também estudo Kotlin, para aprender a desenvolver app nativos Android.
 - 📫 Entre em contato pelo e-mail: rairodrigues@alu.ufc.com.br
 
   <div style="display: inline_block"><br>
-    <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rai-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rai-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Rai-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rai-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
     
   </div>
