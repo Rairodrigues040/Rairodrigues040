@@ -1,6 +1,6 @@
 ## Olá, eu sou Raí Rodrigues :)
 
-- 🔭 Estudante, graduando no 5° semestre de Engenharia de Software - UFC - Campus Russas.
+- 🔭 Estudante, graduando em Engenharia de Software - UFC - Campus Russas.
 - 📫 Entre em contato pelo e-mail: rairodrigues@alu.ufc.com.br
 
   <div style="display: inline_block"><br>
